@@ -117,4 +117,5 @@ body{
 
 .pane-header {
   background-color: var(--mint-color) !important;
+  color: white !important;
 }
